@@ -1,0 +1,1 @@
+Une fonction nommée ArrayGenerate qui retournera un tuple de la taille spécifié par l'argument donné à ArrayGenerate. Les nombres générés varient entre 1 et 10000.
